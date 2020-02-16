@@ -14,7 +14,7 @@ table {
 	position: absolute;
 	left: 50%;
 	margin-left: -155px;
-	top: 50px;
+	top: 25%;
 }
 
 table tr:first-child td {
@@ -47,4 +47,17 @@ table tr td:last-child {
   border-radius: 5px;
   color: white;
   font-size: 2em;
+}
+.headername
+{
+	margin-top: 0%;
+	text-align: center;
+	font-weight: 500;
+	font-size: 24px;
+	color: rgb(85, 22, 22);
+}
+.hostname
+{
+	margin-top: 80%;
+	text-align: center;
 }
