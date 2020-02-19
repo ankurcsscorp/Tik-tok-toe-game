@@ -58,7 +58,7 @@ table tr td:last-child {
 }
 .hostname
 {
-	margin-top: 0%;
+	margin-top: 5%;
 	text-decoration: underline;
 	text-align: center;
 }
