@@ -36,7 +36,7 @@ table tr td:last-child {
 .endgame {
   display: none;
   width: 200px;
-  top: 120px;
+  top: 593px;
   background-color: rgba(205,133,63, 0.8);
   position: absolute;
   left: 50%;
@@ -58,6 +58,6 @@ table tr td:last-child {
 }
 .hostname
 {
-	margin-top: 80%;
+	margin-top: 85%;
 	text-align: center;
 }
